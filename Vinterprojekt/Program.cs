@@ -197,7 +197,7 @@ while (true)//while loop that contains the game
             {
                 Console.WriteLine("Du vann fighten. Grattis!!! Du svimmar av dina skador.");//flavour text
                 hero.hp = hero.hp + 25;//regens some hp
-                hero.xp = hero.xp + 20;//gives some xp
+                hero.xp = hero.xp + 25;//gives some xp
                 if (hero.xp == 100)//checks if you pass the xp needed to gain a lvl
                 {
                     hero.lvl = hero.lvl + 1;//gives that lvl if you pass
