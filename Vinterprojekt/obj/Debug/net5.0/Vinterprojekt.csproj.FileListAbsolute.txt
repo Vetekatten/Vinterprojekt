@@ -1,0 +1,16 @@
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\obj\Debug\net5.0\Vinterprojekt.csproj.AssemblyReference.cache
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\obj\Debug\net5.0\Vinterprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\obj\Debug\net5.0\Vinterprojekt.AssemblyInfoInputs.cache
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\obj\Debug\net5.0\Vinterprojekt.AssemblyInfo.cs
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\obj\Debug\net5.0\Vinterprojekt.csproj.CoreCompileInputs.cache
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\bin\Debug\net5.0\Vinterprojekt.exe
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\bin\Debug\net5.0\Vinterprojekt.deps.json
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\bin\Debug\net5.0\Vinterprojekt.runtimeconfig.json
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\bin\Debug\net5.0\Vinterprojekt.runtimeconfig.dev.json
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\bin\Debug\net5.0\Vinterprojekt.dll
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\bin\Debug\net5.0\ref\Vinterprojekt.dll
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\bin\Debug\net5.0\Vinterprojekt.pdb
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\obj\Debug\net5.0\Vinterprojekt.dll
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\obj\Debug\net5.0\ref\Vinterprojekt.dll
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\obj\Debug\net5.0\Vinterprojekt.pdb
+C:\Users\wilund.joen\Desktop\vinterprojekt\Vinterprojekt\Vinterprojekt\obj\Debug\net5.0\Vinterprojekt.genruntimeconfig.cache

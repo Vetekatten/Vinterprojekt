@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wilund.joen\\Desktop\\vinterprojekt\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj": {}
+    "C:\\Users\\wilund.joen\\Desktop\\vinterprojekt\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wilund.joen\\Desktop\\vinterprojekt\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj": {
+    "C:\\Users\\wilund.joen\\Desktop\\vinterprojekt\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wilund.joen\\Desktop\\vinterprojekt\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj",
+        "projectUniqueName": "C:\\Users\\wilund.joen\\Desktop\\vinterprojekt\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj",
         "projectName": "Vinterprojekt",
-        "projectPath": "c:\\Users\\wilund.joen\\Desktop\\vinterprojekt\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj",
+        "projectPath": "C:\\Users\\wilund.joen\\Desktop\\vinterprojekt\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj",
         "packagesPath": "C:\\Users\\wilund.joen\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wilund.joen\\Desktop\\vinterprojekt\\Vinterprojekt\\Vinterprojekt\\obj\\",
+        "outputPath": "C:\\Users\\wilund.joen\\Desktop\\vinterprojekt\\Vinterprojekt\\Vinterprojekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wilund.joen\\AppData\\Roaming\\NuGet\\NuGet.Config"
